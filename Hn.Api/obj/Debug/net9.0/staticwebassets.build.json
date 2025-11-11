@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2KePLzt9hwr6jYqyypSwe1KYf0YUXL+Pxzjn3ijO7v0=",
+  "Source": "Hn.Api",
+  "BasePath": "_content/Hn.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
